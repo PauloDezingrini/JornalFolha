@@ -1,3 +1,9 @@
+# Jornal Folha
+
+Trabalho desenvolvido para a disciplina ERU324 - Metodologias de pesquisa da UFV
+
+## Informações do template
+  
   =>  Template Name    : BizNews - Free News Website Template
 
   =>  Template Link    : https://htmlcodex.com/free-news-website-template
